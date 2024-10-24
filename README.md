@@ -1,6 +1,6 @@
 # C Programming Projects 
 
-Welcome to my repository where I'm learning and experimenting with **C programming** through various projects! This repository will serve as a collection of code snippets, tools, and projects developed as I dive deeper into the world of **C**.
+Welcome to my repository where I'm learning and experimenting with **C programming** through various projects.  
 
 ---
 
