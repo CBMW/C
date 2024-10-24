@@ -21,3 +21,7 @@ A lightweight honeypot program written in C to monitor file access. The program 
 2. Run through CygWin terminal
    ```bash
    ./honeypot.exe
+
+#### Bugs:
+- **Windows only**: I'd like to have this run accross multiple OS however not sure C is the right language here.  
+- **CygWin terminal**: I used CygWin and GCC compiler to build this so unless you compile differently, this must run through CygWin terminal.  
