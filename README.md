@@ -1,12 +1,8 @@
-# C Programming Projects 
-
-Welcome to my repository where I'm learning and experimenting with **C programming** through various projects.  
+# C HoneyPot 
 
 ---
 
-##  Projects
-
-### 1. **Honeypot.c** 
+### **Honeypot.c** 
 A lightweight honeypot program written in C to monitor file access. The program creates a file that, when accessed, logs the event and sends an alert email with system information.
 
 #### Features:
